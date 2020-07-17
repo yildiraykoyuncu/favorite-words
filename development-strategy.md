@@ -128,11 +128,11 @@ __As a site visitor, I want to execute the function `remove.js`__
 
 ### Repo
 
-- [ ] developed on a branch named `remove`
+- [x] developed on a branch named `remove`
 
 ### JS
 
-- [ ] finish the function `remove.js`
+- [x] finish the function `remove.js`
 
 ---
 
