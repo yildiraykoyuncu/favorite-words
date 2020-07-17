@@ -1,5 +1,5 @@
 'use strict';
-console.log('--- loading: remove.js', words);
+console.log('--- loading: remove.js');
 
 const removeHandler = () => {
   debugger;
