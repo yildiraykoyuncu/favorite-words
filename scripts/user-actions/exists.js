@@ -15,6 +15,6 @@ const existsHandler = () => {
   if (itExists) {
     alert(`"${userInput}" exists`);
   } else {
-    alert(`"${userInput}" does not exists`);
+    alert(`"${userInput}" does not exist`);
   }
 };
