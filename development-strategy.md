@@ -64,11 +64,11 @@ __As a site visitor, I want to execute the function `add-word.js`__
 
 ### Repo
 
-- [ ] developed on a branch named `add-word`
+- [x] developed on a branch named `add-word`
 
 ### JS
 
-- [ ] finish the function `add-word.js`
+- [x] finish the function `add-word.js`
 
 ---
 
