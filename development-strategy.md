@@ -48,11 +48,11 @@ __As a site visitor, I want to execute the function `clear-all.js`__
 
 ### Repo
 
-- [ ] developed on a branch named `clear-all`
+- [x] developed on a branch named `clear-all`
 
 ### JS
 
-- [ ] finish the function `clear-all.js`
+- [x] finish the function `clear-all.js`
 
 ---
 
